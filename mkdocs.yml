@@ -39,3 +39,5 @@ nav:
       - 副属性: 'module/sub-stats.md'
   - 实验室:
       - 细胞花费表: 'lab/cell-cost.md'
+  - 比赛:
+      - v24-v25奖励变化: 'tournament/v24-25-rewards.md'

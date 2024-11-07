@@ -1,6 +1,7 @@
 site_name: The Tower Wiki
 theme:
   name: material
+  custom_dir: overrides
   language: zh
   palette:
     - media: "(prefers-color-scheme: light)"

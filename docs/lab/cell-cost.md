@@ -1,3 +1,9 @@
+---
+tags:
+  - cell
+  - lab
+---
+
 # Cell costs
 
 ## v25.5

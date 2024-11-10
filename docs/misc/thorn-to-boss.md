@@ -1,3 +1,11 @@
+---
+tags:
+  - thorn
+  - wall
+  - boss
+  - elite
+---
+
 # Thorn VS Boss/Elite
 
 Horizontal data is the [wall thorn damage](https://the-tower-idle-tower-defense.fandom.com/wiki/Wall_Labs/Wall_Thorns)<br>

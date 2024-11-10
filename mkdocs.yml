@@ -26,6 +26,8 @@ theme:
     - navigation.top
     - toc.follow
     - toc.integrate
+    - search.suggest
+    - search.share
 markdown_extensions:
   - tables
   - attr_list
@@ -55,6 +57,13 @@ extra:
             using our <a href="https://github.com/pingcheng/the-tower-wiki/issues/new?title=[Feedback]+{title}+-+{url}" target="_blank" rel="noopener">feedback form</a>
 plugins:
   - glightbox
+  - search
+  - tags
+  - git-committers:
+      repository: pingcheng/the-tower-wiki
+      branch: main
+      exclude:
+        - index.md
 
 nav:
   - Modules:

@@ -1,3 +1,8 @@
+---
+tags:
+  - module
+---
+
 # Sub-module effects
 
 The table shows what sub effects are available for each rarity.

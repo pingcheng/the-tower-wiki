@@ -1,4 +1,5 @@
 ---
+description: Comprehensive wiki for The Tower game with tables, statistics, and useful information.
 hide:
   - feedback
 ---

@@ -39,10 +39,12 @@ extra:
   analytics:
     provider: google
     property: G-GDJL638KWC
+plugins:
+  - glightbox
 
 nav:
   - Modules:
-      - Substats: 'module/sub-stats.md'
+      - Sub-module effects: 'module/sub-stats.md'
       - Merging: 'module/merge.md'
       - Legendary modules: 'module/legendary-modules.md'
   - Lab:

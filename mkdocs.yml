@@ -3,7 +3,7 @@ site_url: https://pingcheng.github.io/the-tower-wiki
 theme:
   name: material
   custom_dir: overrides
-  language: zh
+  language: en
   palette:
     - media: "(prefers-color-scheme: light)"
       primary: black
@@ -28,22 +28,26 @@ theme:
     - toc.integrate
 markdown_extensions:
   - tables
+  - attr_list
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 extra:
   analytics:
     provider: google
     property: G-GDJL638KWC
 
 nav:
-  - 模组:
-      - 副属性: 'module/sub-stats.md'
-      - 合并规则: 'module/merge.md'
-      - 传说级模组: 'module/legendary-modules.md'
-  - 实验室:
-      - 细胞花费表: 'lab/cell-cost.md'
-  - 比赛:
-      - v24-v25奖励变化: 'tournament/v24-25-rewards.md'
-  - 其他:
-      - 荆棘伤害对照表: 'misc/thorn-to-boss.md'
+  - Modules:
+      - Substats: 'module/sub-stats.md'
+      - Merging: 'module/merge.md'
+      - Legendary modules: 'module/legendary-modules.md'
+  - Lab:
+      - Cell costs: 'lab/cell-cost.md'
+  - Tournament:
+      - Rewards v24-v25: 'tournament/v24-25-rewards.md'
+  - Extra:
+      - Thorn damage table: 'misc/thorn-to-boss.md'

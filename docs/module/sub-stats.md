@@ -1,3 +1,3 @@
-# 模组副属性
+# Sub Stats
 
 ![Sub Stats](../assets/images/module-sub-stat.png)

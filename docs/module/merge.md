@@ -1,3 +1,3 @@
-# 合并规则
+# Merging
 
 ![merge](../assets/images/module-merge.jpg)

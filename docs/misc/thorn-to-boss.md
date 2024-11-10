@@ -1,10 +1,11 @@
-# 荆棘 VS Boss/Elite
+# Thorn VS Boss/Elite
 
-横向数据为墙的荆棘伤害<br>
-纵向数据为塔本体的荆棘伤害<br>
-对应的数字为消灭boss/elite的伤害的次数
+Horizontal data is the [wall thorn damage](https://the-tower-idle-tower-defense.fandom.com/wiki/Wall_Labs/Wall_Thorns)<br>
+Vertical data is the [tower body thorn damage](https://the-tower-idle-tower-defense.fandom.com/wiki/Thorn_Damage)<br>
+The corresponding number is the number of hit times to kill the boss/elite
 
-PC是大炮卡，直接对BOSS直接造成伤害
+PC is the [plasma cannon](https://the-tower-idle-tower-defense.fandom.com/wiki/Plasma_Canon),
+directly causing damage to the BOSS
 
 ![thorn vs boss + elite](../assets/images/thorn-vs-boss+elite.jpg)
 

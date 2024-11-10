@@ -1,3 +1,3 @@
-# 史诗级模组
+# Legendary modules
 
-![史诗级模组](../assets/images/legendary-modules.jpg)
+![Legendary modules](../assets/images/legendary-modules.jpg)

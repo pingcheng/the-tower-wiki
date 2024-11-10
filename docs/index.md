@@ -1,3 +1,8 @@
+---
+hide:
+  - feedback
+---
+
 # The Tower Wiki
 
 :wave: Hi, everyone.

@@ -31,7 +31,9 @@ theme:
 markdown_extensions:
   - tables
   - attr_list
+  - md_in_html
   - pymdownx.superfences
+  - pymdownx.blocks.caption
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji:
@@ -72,6 +74,8 @@ nav:
       - Legendary modules: 'module/legendary-modules.md'
   - Lab:
       - Cell costs: 'lab/cell-cost.md'
+  - Cards:
+      - Card mastery: 'card/card-mastery.md'
   - Tournament:
       - Rewards v24-v25: 'tournament/v24-25-rewards.md'
   - Extra:

@@ -68,6 +68,8 @@ plugins:
         - index.md
 
 nav:
+  - Ultimate Weapons:
+      - Golden Tower: 'ultimate-weapons/golden-tower.md'
   - Modules:
       - Sub-module effects: 'module/sub-stats.md'
       - Merging: 'module/merge.md'

@@ -1,3 +1,10 @@
+---
+tags:
+  - ultimate weapon
+  - golden tower
+  - golden tower+
+---
+
 # Golden Tower
 
 ## Golden Tower+ Metrics
